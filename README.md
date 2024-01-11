@@ -4,9 +4,9 @@
 > https://anandr07.github.io
 
 ![GitHub stars](https://img.shields.io/github/stars/anandr07/anandr07.github.io) 
-[![GitHub stars](https://img.shields.io/github/stars/anandr07/anandr07.github.io?style=social)](https://github.com/anandr07/anandr07.github.io/stargazers)
+<!-- [![GitHub stars](https://img.shields.io/github/stars/anandr07/anandr07.github.io?style=social)](https://github.com/anandr07/anandr07.github.io/stargazers) -->
 ![GitHub forks](https://img.shields.io/github/forks/anandr07/anandr07.github.io)
-[![GitHub forks](https://img.shields.io/github/forks/anandr07/anandr07.github.io?style=social)](https://github.com/anandr07/anandr07.github.io/network/members)
+<!-- [![GitHub forks](https://img.shields.io/github/forks/anandr07/anandr07.github.io?style=social)](https://github.com/anandr07/anandr07.github.io/network/members) -->
 [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/anandr07/anandr07.github.io/commits/master)
 [![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://anandr07.github.io/)
 [![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/anand-raj-4334a91b3/)
